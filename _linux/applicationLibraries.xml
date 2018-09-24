@@ -1,0 +1,28 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/bootbox" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/bootstrap-3-typeahead" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/google-maps" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/leaflet" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mapbox" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mapbox-gl-leaflet" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
